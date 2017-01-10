@@ -19,4 +19,5 @@ The automation actions run in a sequence as defined, and are all re-entrant, tha
 
 Full documentation is available here: http://docs.velostrata.com/m/60079
 
+Contribution to the page... 
 
